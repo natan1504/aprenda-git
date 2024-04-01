@@ -1,0 +1,13 @@
+# igonore arquivos com extensão zip 
+*.zip 
+
+# igonore arquivos com extensão rar
+*.rar
+# igonore arquivos com extensão txt
+*.txt
+# igonore arquivos com extensão bd
+*.bd
+# igonore arquivos com extensão bkp
+*.bkp
+# igonore arquivos com extensão env
+*.env
